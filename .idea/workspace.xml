@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d26885f-fad3-439c-80cc-36aa60df94ee" name="Changes" comment="Contas.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668032600920</updated>
-      <workItem from="1668032607269" duration="3033000" />
+      <workItem from="1668032607269" duration="4600000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1668032720476</created>
